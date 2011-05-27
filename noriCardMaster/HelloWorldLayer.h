@@ -19,3 +19,4 @@
 +(CCScene *) scene;
 
 @end
+
